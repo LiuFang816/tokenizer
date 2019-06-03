@@ -2,7 +2,6 @@ import javalang
 
 FuncExample = \
 """//这是我随便写的注释
-@FuzyAnnotation
 private void doParse(String pakageName) throws Exception
 {
 	if (StringUtils.isBlank(packageName))
